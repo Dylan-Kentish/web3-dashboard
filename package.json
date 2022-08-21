@@ -2,12 +2,7 @@
   "name": "web3-dashboard",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3000",
-  "homepage": ".",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
     "@walletconnect/web3-provider": "^1.8.0",
     "@web3auth/web3auth": "^1.2.0",
     "@web3uikit/core": "^0.1.5",
